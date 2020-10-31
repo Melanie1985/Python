@@ -1,0 +1,84 @@
+def user_name():
+    user_starter = input("What is your favourite starter?")
+    user_main = input("What is your favourite main?")
+    user_dessert = input("What is your favourite dessert?")
+    user_drink = input("What is your favourite drink?")
+    print("Your favourite meal is " + user_main + "with a glass of " + user_drink)
+    
+    user_name()
+What is your favourite starter?Pate
+What is your favourite main?Steak
+What is your favourite dessert?Brownie
+What is your favourite drink?Wine
+Your favourite meal is Steakwith a glass of Wine
+
+def numbers():
+  num_1 = int(input("What is your first number:"))
+  num_2 = int(input("What is your second number:"))
+  menu = input ('''
+    a = +
+    b = -
+    c = /
+    d = *
+    e = **
+    ''')
+  ans = input("What would you like to do?")
+  if ans == "a":
+    print(num_1 + num_2)
+  else ans == "b":
+    print(num_1 - num_2)
+  else ans == "c":
+    print(num_1 / num_2)
+  else ans == "d":
+    print(num_1 * num_2)
+  elsec ans == "e":
+    print(num_1 ** num_2)
+    
+    numbers()
+What is your first number:5
+What is your second number:2
+    a = +
+    b = -
+    c = /
+    d = *
+    e = **
+What would you like to do?e
+25
+ numbers()
+What is your first number:7
+What is your second number:6
+    a = +
+    b = -
+    c = /
+    d = *
+    e = **
+    c
+What would you like to do?c
+1.1666666666666667
+ numbers()
+What is your first number:8
+What is your second number:5
+    a = +
+    b = -
+    c = /
+    d = *
+    e = **
+What would you like to do?a
+13
+
+fav_num = input("What is your favourite number?")
+if fav_num == "7":
+    print("What is the best thing about Switzerland?  I don't know but the flag is a big plus!")
+else:
+    print("No joke for you today!!")
+    
+    What is your favourite number?7
+What is the best thing about Switzerland?  I don't know but the flag is a big plus!
+
+
+
+
+
+3:36
+What is your favourite number?9
+No joke for you today!!
