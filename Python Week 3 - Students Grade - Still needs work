@@ -1,0 +1,24 @@
+def mark_grade(mark):
+  if mark >= 90:
+    print("A*")
+  elif mark >= 80:
+    print("A")
+  elif mark >= 70:
+    print("B")
+  elif mark >= 60:
+    print("C")
+  else:
+    print("F")
+mark = input("Enter the students mark: ")
+grade = mark_grade(int(mark))
+print("grade is " + mark)
+def target_grade(target):
+  if target >= mark:
+    print("Well done for getting higher than your target grade")
+  elif target == mark:
+    print("Good job your target grade is the same as your actual grade")
+  elif target <= mark:
+    print("Good try but you did not reach your target grade")
+target = input("Please enter your target grade: ")
+print("Your grade is "  + mark +  " and your target grade is " + target)
+x = target_grade(str(mark))
