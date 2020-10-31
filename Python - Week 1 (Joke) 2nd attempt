@@ -1,0 +1,25 @@
+num = input("Think of a number between 1 and 10?")
+if num == "1":
+    print("What is the best thing about Switzerland?  I don't know but the flag is a big plus!")
+elif num == "2":
+  print("!!")
+elif num == "3":
+  print("How did the chicken cross the road? To get to the other side")
+elif num == "4":
+  print("I told my wife she was drawing her eyebrows too high, she looked surprised!")
+elif num == "5":
+  print("I threw a boomerang a few years ago, I now live in constant fear")
+elif num == "6":
+  print("My wife accused my of being immature, I told her to get out of my fort")
+elif num == "7":
+  print("My grandfather has the heart of a lion and a lifetime ban from the zoo")
+elif num == "8":
+  print("I broke my finger last week, on the hand I'm ok")
+elif num == "9":
+  print("Someone stole my Microsoft Office, they are gonna pay, you have my word")
+elif num == "10":
+  print("I tried to catch fog yesterday. Mist")
+else:
+    print("No joke for you today!!")
+    
+    
