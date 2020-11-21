@@ -1,0 +1,10 @@
+#program that finds out if a word is a palindrome or not
+#User is asked to input a word
+string = input("Enter a string: ")
+#If statement asks if the string is equal to string to use the string reverse method
+if(string == string [::-1]):
+#if the string is the same reversed then print It is a palindrome
+    print("This string is a palindrome")
+#else statement will print it is not if the conditions are not met
+else:
+    print("Not a palindrome")
