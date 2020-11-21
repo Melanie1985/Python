@@ -12,7 +12,7 @@ def mark_grade(mark):
 mark = input("Enter the students mark: ")
 grade = mark_grade(int(mark))
 print("grade is " + mark)
-def target_grade(target):
+def target_grade(target, mark):
   if target >= mark:
     print("Well done for getting higher than your target grade")
   elif target == mark:
@@ -21,4 +21,4 @@ def target_grade(target):
     print("Good try but you did not reach your target grade")
 target = input("Please enter your target grade: ")
 print("Your grade is "  + mark +  " and your target grade is " + target)
-x = target_grade(str(mark))
+x = target_grade(mark, target)
