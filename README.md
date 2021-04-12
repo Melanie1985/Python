@@ -31,14 +31,12 @@
 - Project No. 4 - Palindrome
 - BRIEF - We were asked to write a program that takes in a word and says whether or not it is a palindrome (a word that is the same backwards as forwards)
 - USING PYTHON AND VISUAL STUDIO CODE
-- SUDO CODE - #Create variable for the input 
-              #If statement to see if num inputted is equal to 1
-              #Elif statements to go through the numbers 2-10
-              #Else statement for when inputted num doesnt match 
-              #Print to terminal the joke that is equal to the number inputted
-- CHALLENGES FACED - Finding the jokes for the 10 different options was quite a challenge in itself. I also wasn't sure how many elif statements were allowed and if the code would run.  
-- HOW I OVERCAME THIS CHALLENGE - I did a lot of reading on if, else, elif statements to make sure that the way I was writing the program was the most effecient way to do it.
-
-
+- SUDO CODE - #Create a program that finds out if a word is a palindrome or not
+              #User is asked to input a word
+              #If statement asks if the string is equal to string to use the string   reverse method
+              #if the string is the same reversed then print It is a palindrome
+              #else statement will print it is not if the conditions are not met
+- CHALLENGES FACED - I wasn't sure how I was going to write code that took in a word and saw if it was the same forwards as it was backwards. I did have a few different tries using a few different methods but this is the code that worked for me.
+- HOW I OVERCAME THIS CHALLENGE - I did a lot of reading and research and quickly discovered that there were a few different ways to see if a string was the same forwards as it was backwards. 
 
 
