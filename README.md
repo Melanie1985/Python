@@ -17,3 +17,12 @@
 - CHALLENGES FACED - I could not for the life of me think how to use / or * to get the 10% value to work all the way through my code. I could figure it out for the first year but after that I kept drawing a blank.  
 - HOW I OVERCAME THIS CHALLENGE - As I was still new to python the best way I thought to get around this was to wrk out myself what 10% off each years price would be and then use that sum for the program. Not the most effective way to use Python but the work and final product worked.
 
+- Project No. 3 - Joke
+- BRIEF - We were asked to write a program that asks a user for their favourite number and then tells them a joke. We needed the function to accept one numeric parameter and use it to choose the joke to tell. 
+- USING PYTHON AND VISUAL STUDIO CODE
+- SUDO CODE - #Create variables for the bike and the price
+              #Print to terminal the bike and price
+              #Print to terminal the bikes value after each year after it lost 10% of         its value
+- CHALLENGES FACED - I could not for the life of me think how to use / or * to get the 10% value to work all the way through my code. I could figure it out for the first year but after that I kept drawing a blank.  
+- HOW I OVERCAME THIS CHALLENGE - As I was still new to python the best way I thought to get around this was to wrk out myself what 10% off each years price would be and then use that sum for the program. Not the most effective way to use Python but the work and final product worked.
+
