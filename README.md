@@ -8,6 +8,8 @@
 - CHALLENGES FACED - I had trouble installing the ide as I found that using a Mac and working with programming languages was quite a challenge. 
 - HOW I OVERCAME THIS CHALLENGE - I did a lot of research on what the best course of action was, I also had some discussions with my tutor Ruth who helped me through it. After a lot of reading and troubleshooting using other peoples experiences with using Mac and VSC I finally got the code to run.
 
+
+
 - Project No. 2 - Motorbike
 - BRIEF - We were asked to write a program that printed out the value of a Motorbike if it were to lose 10% of it's value each year. The bike cost £2000 and I had to print out the bike's value every year until it fell below £1000.
 - USING PYTHON AND VISUAL STUDIO CODE
@@ -16,6 +18,8 @@
               #Print to terminal the bikes value after each year after it lost 10% of         its value
 - CHALLENGES FACED - I could not for the life of me think how to use / or * to get the 10% value to work all the way through my code. I could figure it out for the first year but after that I kept drawing a blank.  
 - HOW I OVERCAME THIS CHALLENGE - As I was still new to python the best way I thought to get around this was to wrk out myself what 10% off each years price would be and then use that sum for the program. Not the most effective way to use Python but the work and final product worked.
+
+
 
 - Project No. 3 - Joke
 - BRIEF - We were asked to write a program that asks a user for their favourite number and then tells them a joke. We needed the function to accept one numeric parameter and use it to choose the joke to tell. 
@@ -28,6 +32,8 @@
 - CHALLENGES FACED - Finding the jokes for the 10 different options was quite a challenge in itself. I also wasn't sure how many elif statements were allowed and if the code would run.  
 - HOW I OVERCAME THIS CHALLENGE - I did a lot of reading on if, else, elif statements to make sure that the way I was writing the program was the most effecient way to do it.
 
+
+
 - Project No. 4 - Palindrome
 - BRIEF - We were asked to write a program that takes in a word and says whether or not it is a palindrome (a word that is the same backwards as forwards)
 - USING PYTHON AND VISUAL STUDIO CODE
@@ -38,6 +44,8 @@
               #else statement will print it is not if the conditions are not met
 - CHALLENGES FACED - I wasn't sure how I was going to write code that took in a word and saw if it was the same forwards as it was backwards. I did have a few different tries using a few different methods but this is the code that worked for me.
 - HOW I OVERCAME THIS CHALLENGE - I did a lot of reading and research and quickly discovered that there were a few different ways to see if a string was the same forwards as it was backwards. 
+
+
 
 - Project No. 5 - Password
 - BRIEF - We were asked to write a program that asks the user to input a password, re-enter the password and then tells the user if the password is weak, medium or strong.
@@ -51,6 +59,8 @@
               # else statement will print out all other outcomes, any string that is less than 10 characters will print out that the password is weak
 - CHALLENGES FACED - Working out what was considered a strong password, it made the most sense to use the len function and have a lot of characters as this was something I understood.
 - HOW I OVERCAME THIS CHALLENGE - I did some research on how long a strong password should be and took that into account when writing my program. 
+
+
 
 - Project No. 6 - Student Grade
 - BRIEF - We were asked to write a program that asks a student for their percentage mark and convert this to a grade - function should be called mark_grade(). Ask user for their target grade and print this with their mark - if their target grade is greater, less than or equal to their exam grade then print a suitable message.
