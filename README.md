@@ -39,4 +39,17 @@
 - CHALLENGES FACED - I wasn't sure how I was going to write code that took in a word and saw if it was the same forwards as it was backwards. I did have a few different tries using a few different methods but this is the code that worked for me.
 - HOW I OVERCAME THIS CHALLENGE - I did a lot of reading and research and quickly discovered that there were a few different ways to see if a string was the same forwards as it was backwards. 
 
+- Project No. 5 - Password
+- BRIEF - We were asked to write a program that asks the user to input a password, re-enter the password and then tells the user if the password is weak, medium or strong.
+- USING PYTHON AND VISUAL STUDIO CODE
+- SUDO CODE - # Program to work out if a password is weak, medium or strong.
+              # Ask user to enter their password
+              # Ask user to enter their password again
+              # use the len func to work out the length of a string
+              # if statement asks if the length of the string is greater or equal to 16 characters then it will print that the password is strong
+              # elif statement asks if the length of the string is greater or equal to 10 characters then it will print that the password is medium
+              # else statement will print out all other outcomes, any string that is less than 10 characters will print out that the password is weak
+- CHALLENGES FACED - Working out what was considered a strong password, it made the most sense to use the len function and have a lot of characters as this was something I understood.
+- HOW I OVERCAME THIS CHALLENGE - I did some research on how long a strong password should be and took that into account when writing my program. 
+
 
