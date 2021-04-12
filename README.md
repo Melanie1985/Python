@@ -52,4 +52,18 @@
 - CHALLENGES FACED - Working out what was considered a strong password, it made the most sense to use the len function and have a lot of characters as this was something I understood.
 - HOW I OVERCAME THIS CHALLENGE - I did some research on how long a strong password should be and took that into account when writing my program. 
 
+- Project No. 6 - Student Grade
+- BRIEF - We were asked to write a program that asks a student for their percentage mark and convert this to a grade - function should be called mark_grade(). Ask user for their target grade and print this with their mark - if their target grade is greater, less than or equal to their exam grade then print a suitable message.
+- USING PYTHON AND VISUAL STUDIO CODE
+- SUDO CODE - # Program to convert percentage mark to grade
+              # use if, elif and else statements for each grade 
+              # create variables for mark input
+              # create another variable to convert grade into mark
+              # create another function for target grade
+              # use if, elif and else statements to compare exam marks with target grades
+              #print suitable message to terminal
+- CHALLENGES FACED - I struggled with this program a little as I was a little niave when it came to creating the variables needed.
+- HOW I OVERCAME THIS CHALLENGE - I spent a lot of time reading up on how you can't declare the same variable for different things. I learnt a lot from researching this type of function.
+
+
 
