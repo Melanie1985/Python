@@ -28,5 +28,17 @@
 - CHALLENGES FACED - Finding the jokes for the 10 different options was quite a challenge in itself. I also wasn't sure how many elif statements were allowed and if the code would run.  
 - HOW I OVERCAME THIS CHALLENGE - I did a lot of reading on if, else, elif statements to make sure that the way I was writing the program was the most effecient way to do it.
 
+- Project No. 4 - Palindrome
+- BRIEF - We were asked to write a program that takes in a word and says whether or not it is a palindrome (a word that is the same backwards as forwards)
+- USING PYTHON AND VISUAL STUDIO CODE
+- SUDO CODE - #Create variable for the input 
+              #If statement to see if num inputted is equal to 1
+              #Elif statements to go through the numbers 2-10
+              #Else statement for when inputted num doesnt match 
+              #Print to terminal the joke that is equal to the number inputted
+- CHALLENGES FACED - Finding the jokes for the 10 different options was quite a challenge in itself. I also wasn't sure how many elif statements were allowed and if the code would run.  
+- HOW I OVERCAME THIS CHALLENGE - I did a lot of reading on if, else, elif statements to make sure that the way I was writing the program was the most effecient way to do it.
+
+
 
 
