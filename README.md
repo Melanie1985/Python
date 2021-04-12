@@ -20,9 +20,13 @@
 - Project No. 3 - Joke
 - BRIEF - We were asked to write a program that asks a user for their favourite number and then tells them a joke. We needed the function to accept one numeric parameter and use it to choose the joke to tell. 
 - USING PYTHON AND VISUAL STUDIO CODE
-- SUDO CODE - #Create variables for the bike and the price
-              #Print to terminal the bike and price
-              #Print to terminal the bikes value after each year after it lost 10% of         its value
-- CHALLENGES FACED - I could not for the life of me think how to use / or * to get the 10% value to work all the way through my code. I could figure it out for the first year but after that I kept drawing a blank.  
-- HOW I OVERCAME THIS CHALLENGE - As I was still new to python the best way I thought to get around this was to wrk out myself what 10% off each years price would be and then use that sum for the program. Not the most effective way to use Python but the work and final product worked.
+- SUDO CODE - #Create variable for the input 
+              #If statement to see if num inputted is equal to 1
+              #Elif statements to go through the numbers 2-10
+              #Else statement for when inputted num doesnt match 
+              #Print to terminal the joke that is equal to the number inputted
+- CHALLENGES FACED - Finding the jokes for the 10 different options was quite a challenge in itself. I also wasn't sure how many elif statements were allowed and if the code would run.  
+- HOW I OVERCAME THIS CHALLENGE - I did a lot of reading on if, else, elif statements to make sure that the way I was writing the program was the most effecient way to do it.
+
+
 
